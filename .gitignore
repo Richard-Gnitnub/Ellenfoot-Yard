@@ -1,12 +1,49 @@
-.DS_Store
-node_modules
-/build
-/.svelte-kit
-/package
+# Node.js dependencies
+node_modules/
+.pnpm-debug.log*
+
+# Build outputs
+build/
+.vercel/
+output/
+.svelte-kit/
+
+# Local environment variables
 .env
 .env.*
-!.env.example
-vite.config.js.timestamp-*
-vite.config.ts.timestamp-*
-.histoire
-.jampack
+.env.local
+
+# IDE and editor settings
+*.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+Icon?
+._*
+
+# Testing and debugging files
+coverage/
+*.lcov
+.nyc_output/
+
+# SvelteKit specific
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Log files
+*.log
+npm-debug.log*
+
+# Temporary files
+tmp/
+temp/
