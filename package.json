@@ -48,6 +48,8 @@
   "dependencies": {
     "@fontsource/inter": "^4.5.15",
     "@fontsource/merriweather": "^4.5.14",
-    "@fontsource/ubuntu-mono": "^4.5.11"
+    "@fontsource/ubuntu-mono": "^4.5.11",
+    "prism-svelte": "^0.5.0",
+    "prismjs": "^1.29.0"
   }
 }
