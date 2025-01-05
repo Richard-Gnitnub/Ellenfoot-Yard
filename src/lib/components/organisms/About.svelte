@@ -7,12 +7,12 @@
 <section id="about">
 	<div class="info">
 		<h2>
-			This is a catchy headline that
-			<SparklingHighlight color="secondary">sparkles!</SparklingHighlight>
+			Welcome to Ellenfoot Yard, where storytelling and creativity
+			<SparklingHighlight color="secondary">shine!</SparklingHighlight>
 		</h2>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum velit voluptatibus commodi
-			autem provident quam labore, libero beatae praesentium voluptate?
+			Dive into the world of model railways, 3D printing, woodwork, and electronics as we craft and
+			share extraordinary projects
 		</p>
 		<div class="socials">
 			<span>Socials:</span>
@@ -20,10 +20,7 @@
 		</div>
 	</div>
 	<div class="image">
-		<Image
-			src="/images/sample-image.png"
-			alt="Sample for the static template"
-		/>
+		<Image src="/images/sample-image.png" alt="Sample for the static template" />
 	</div>
 </section>
 
