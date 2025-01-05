@@ -11,8 +11,8 @@
 			<SparklingHighlight color="secondary">shine!</SparklingHighlight>
 		</h2>
 		<p>
-			Dive into the world of model railways, 3D printing, woodwork, and electronics as we craft and
-			share extraordinary projects
+			Dive into the world of model railways, 3D printing, woodwork, and electronics as I craft and
+			share my projects.
 		</p>
 		<div class="socials">
 			<span>Socials:</span>
