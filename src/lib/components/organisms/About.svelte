@@ -7,8 +7,8 @@
 <section id="about">
 	<div class="info">
 		<h2>
-			Welcome to Ellenfoot Yard, where storytelling and creativity
-			<SparklingHighlight color="secondary">shine!</SparklingHighlight>
+			Welcome to the workbench of Richard Bunting The Cumbrian Railway
+			<SparklingHighlight color="secondary">Modeller!</SparklingHighlight>
 		</h2>
 		<p>
 			Dive into the world of model railways, 3D printing, woodwork, and electronics as I craft and

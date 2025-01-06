@@ -8,7 +8,6 @@
 <section id="hero">
 	<h1 class="hello">Ellenfoot Yard</h1>
 	<p class="intro">
-		<span class="left">Welcome to the work bench of Richard Bunting</span>
 	</p>
 	<div class="ctas">
 		<Sparkles>
