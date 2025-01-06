@@ -7,7 +7,7 @@
 <section id="about">
 	<div class="info">
 		<h2>
-			Welcome to the workbench of Richard Bunting The Cumbrian Railway
+			Welcome to the workbench of Richard Bunting, The Cumbrian Railway
 			<SparklingHighlight color="secondary">Modeller!</SparklingHighlight>
 		</h2>
 		<p>
